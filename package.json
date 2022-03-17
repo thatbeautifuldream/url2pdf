@@ -1,0 +1,27 @@
+{
+  "name": "url2pdf",
+  "version": "1.0.0",
+  "description": "📸  Capturing Website Screenshots in PDF, PNG, JPG using Node.js, Puppeteer!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatbeautifuldream/url2pdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatbeautifuldream/url2pdf/issues"
+  },
+  "homepage": "https://github.com/thatbeautifuldream/url2pdf#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
