@@ -38,6 +38,14 @@ node capture <url> <ext>
 node capture https://www.google.com png
 ```
 
-## Demo Image
+## Demo
 
-![screenshot1647554748733](https://user-images.githubusercontent.com/28717686/158902306-d6652066-a63b-4c36-9423-e438a7e1b3db.png)
+```bash
+node capture https://google.com png
+```
+
+<details>
+<summary>Screenshot</summary>
+<br>
+<img src="https://user-images.githubusercontent.com/28717686/158902306-d6652066-a63b-4c36-9423-e438a7e1b3db.png">
+</details>
